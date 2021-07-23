@@ -10,11 +10,11 @@ function [sparsityvec,changevec,decomplevel] = decomplevelselect(data,wname)
 %   or character array 'wname' (see WFILTERS for more information).
 %   DATA must be a 1-D array with finite, numeric elements.
 %
-%   W. Bekerman and M. Srivastava, 01-Dec-2020.
+%   Authors: W. Bekerman and M. Srivastava, 01-Dec-2020.
 %   Last Revision: 16-Jul-2021.
 %   See also WAVEDEC, DETCOEF.
 
-%   Copyright 2021, William J. Bekerman
+%   Copyright 2021, Signal Science Lab
 %   
 %   Licensed under the Apache License, Version 2.0 (the "License");
 %   you may not use this file except in compliance with the License.
